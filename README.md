@@ -1,12 +1,12 @@
-# Tên Portfolio
-Đây là phần giới thiệu portfolio của [Tên của bạn], một game developer với kinh nghiệm và tài năng trong lĩnh vực này. Trong portfolio này, bạn có thể tìm thấy thông tin chi tiết về các sản phẩm mới nhất và dự án mới nhất của tôi, cũng như các trang mạng xã hội và khóa học tôi đã tạo dựng.
+# Bill's Portfolio
+This is Bill Truong's game development portfolio, where you can find information about my latest projects, social media profiles, and courses I have created. As a game dev intern, I have gained experience in game development projects and learned essential skills to create challenging and engaging games. I am also active in learning and updating my knowledge in this field. Thank you for taking the time to learn more about me.
 
 ## Các sản phẩm mới nhất và dự án mới nhất
-[Tên sản phẩm hoặc dự án #1](link đến sản phẩm hoặc dự án): Mô tả ngắn gọn về sản phẩm hoặc dự án, công nghệ sử dụng và đóng góp của bạn.
+[Samurai](link đến sản phẩm hoặc dự án): Mô tả ngắn gọn về sản phẩm hoặc dự án, công nghệ sử dụng và đóng góp của bạn.
 
-[Tên sản phẩm hoặc dự án #2](link đến sản phẩm hoặc dự án): Mô tả ngắn gọn về sản phẩm hoặc dự án, công nghệ sử dụng và đóng góp của bạn.
+[Enemy with coin pickup and fight](link đến sản phẩm hoặc dự án): Mô tả ngắn gọn về sản phẩm hoặc dự án, công nghệ sử dụng và đóng góp của bạn.
 
-[Tên sản phẩm hoặc dự án #3](link đến sản phẩm hoặc dự án): Mô tả ngắn gọn về sản phẩm hoặc dự án, công nghệ sử dụng và đóng góp của bạn.
+[ObjectPool](link đến sản phẩm hoặc dự án): Mô tả ngắn gọn về sản phẩm hoặc dự án, công nghệ sử dụng và đóng góp của bạn.
 
 ## Trang mạng xã hội và khóa học
 [Link trang cá nhân](link đến trang cá nhân của bạn): Mô tả ngắn gọn về trang cá nhân của bạn, nơi bạn chia sẻ thông tin về bản thân và các sản phẩm của mình.
