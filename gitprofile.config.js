@@ -4,10 +4,10 @@ const config = {
   github: {
     username: 'billtruong003', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 14, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['ads', 'checklistbilltruong003.github.io', 'adTest', 'template', 'test', 'gittest'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -25,12 +25,12 @@ const config = {
     behance: '',
     medium: '',
     stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
+    skype: 'live:.cid.20fb3e5aba7d18b7',
     telegram: '',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://static.topcv.vn/topcv-cv-uploads/3c11ecc53fce789171702807a3632486.pdf#toolbar=0&navpanes=0&scrollbar=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C/C#',
@@ -42,7 +42,10 @@ const config = {
     'Python',
     'SQL',
     'Git',
-    'Tailwind',
+    'Tailwind CSS',
+    'Latex',
+    'MD',
+    'nodeJS',
     // 'Docker',
     // 'PHPUnit',
     // 'Antd',
@@ -140,7 +143,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'fantasy',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
