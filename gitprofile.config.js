@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://static.topcv.vn/topcv-cv-uploads/3c11ecc53fce789171702807a3632486.pdf#toolbar=0&navpanes=0&scrollbar=0', // Empty fileUrl will hide the `Download Resume` button.
+      'https://static.topcv.vn/topcv-cv-uploads/80b745be13af28ce9cb936e615cfeb7d.pdf#toolbar=0&navpanes=0&scrollbar=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C/C#',
@@ -42,7 +42,7 @@ const config = {
     'Python',
     'SQL',
     'Git',
-    'Tailwind CSS',
+    // 'Tailwind CSS',
     'Latex',
     'MD',
     'nodeJS',
